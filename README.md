@@ -1,2 +1,2 @@
-# nodeOne
-first node app
+# electronOne
+first electron app
