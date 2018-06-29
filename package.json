@@ -1,0 +1,26 @@
+{
+  "name": "electron-one",
+  "version": "0.0.0",
+  "description": "electron app to experiment and learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "inittest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ak-padmalayan/nodeOne.git"
+  },
+  "keywords": [
+    "electron",
+    "fisrt"
+  ],
+  "author": "Aditya kiran Padmalayan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ak-padmalayan/nodeOne/issues"
+  },
+  "homepage": "https://github.com/ak-padmalayan/nodeOne#readme",
+  "dependencies": {
+    "electron": "^2.0.3"
+  }
+}
