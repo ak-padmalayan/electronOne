@@ -1,10 +1,10 @@
 {
   "name": "electron-one",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "electron app to experiment and learn",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "inittest"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
